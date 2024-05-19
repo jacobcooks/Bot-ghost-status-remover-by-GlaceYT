@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Percentify"];
+const statusMessages = ["Watching Socialcord"];
 
 
 let currentIndex = 0;
